@@ -11,7 +11,6 @@
 # เครื่องมือที่ใช้
 
 - MySQL (Workbench) — cleaning, RFM calculation, segmentation
-- Python (matplotlib) — visualization
 
 # สิ่งที่ทำ
 
